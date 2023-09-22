@@ -1,2 +1,6 @@
 # Consulting_Project
-this is my first project as a Back-End Developer
+- Role: worked as a Back-End Developer.
+- Technologies Used: PHP, Laravel Framework, MySQL, git.
+- Features: Developed a registration and consulting system ,
+  sanctum authentication and customer reviews.
+
